@@ -1,4 +1,6 @@
-**Project Summary Report Project Title:**
+**Project Summary Report** 
+
+**Project Title:**
 
 **Data Analysis using NumPy and Pandas** 
 
