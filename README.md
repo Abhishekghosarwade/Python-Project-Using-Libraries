@@ -1,6 +1,6 @@
 **Project Summary Report** 
 
-**Project Title:**
+**Project Title: Student_scores**
 
 **Data Analysis using NumPy and Pandas** 
 
